@@ -2,8 +2,8 @@
 
  <div>
    <a href="https://github.com/eduarda-goncalves">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduarda-goncalves&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduarda-goncalves&layout=compact&langs_count=6&theme=highcontrast"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduarda-goncalves&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduarda-goncalves&layout=compact&langs_count=6&theme=dark"/>
 
 </div>
 <div style="display: inline_block"><br>
